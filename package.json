@@ -4,6 +4,7 @@
   "description": "A API that reads the fake news detected from Ministry of Health of Brazil.",
   "main": "fake_news.js",
   "scripts": {
+    "start":"node fake_news.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
