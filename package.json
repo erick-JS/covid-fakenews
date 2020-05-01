@@ -1,0 +1,24 @@
+{
+  "name": "covid-fakenews",
+  "version": "1.0.0",
+  "description": "A API that reads the fake news detected from Ministry of Health of Brazil.",
+  "main": "fake_news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick-JS/covid-fakenews.git"
+  },
+  "keywords": [
+    "fake-news",
+    "covid-19",
+    "api"
+  ],
+  "author": "Erick Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erick-JS/covid-fakenews/issues"
+  },
+  "homepage": "https://github.com/erick-JS/covid-fakenews#readme"
+}
