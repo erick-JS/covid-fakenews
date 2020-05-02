@@ -4,7 +4,7 @@ var request = require('request');
 var cheerio = require('cheerio');
 var http = require("http");
 
-var porta = process.env.PORT || 8080;
+var porta = 8080;
 
 http.createServer(function (req, res) {
     var items = [];

@@ -1,0 +1,1 @@
+web: node fake_news.js
